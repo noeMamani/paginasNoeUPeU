@@ -1,0 +1,18 @@
+{
+  "name": "paginaUpeu",
+  "version": "0.0.0",
+  "description": "pagina de la unversidad peruanna union",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "servicios computacionales",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0"
+  }
+}
